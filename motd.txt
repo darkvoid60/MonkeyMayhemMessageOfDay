@@ -1,2 +1,3 @@
 Welcome to Monkey Mayhem on SideQuest!
-I am workinng on my own player model expect to see it next update :)
+No more being a ugly monkey! I have finally made my own player model.
+Check the updates board to see list of changes.
