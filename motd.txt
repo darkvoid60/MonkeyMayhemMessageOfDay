@@ -1,3 +1,3 @@
-Welcome to Monkey Mayhem on SideQuest!
-No more being a ugly monkey! I have finally made my own player model.
-Check the updates board to see list of changes.
+Welcome to Monkey Mayhem on App Lab!
+We are no longer in SideQuest beta we are now on app lab
+I forgot to change the update board but you can find the changes I bet.
